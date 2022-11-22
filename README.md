@@ -1,4 +1,4 @@
-# Recommendation ETL
+# Course Recommendation ETL
 ## Feature
 - Extract Data from PostgreSQL
 - Transform the data into the top 3 recommended courses
