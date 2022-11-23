@@ -110,7 +110,7 @@ with DAG(
 ) as dag:
   task1 = PythonOperator(
     task_id = 'etl',
-    python_callable = etl
+    python_callable = etl,
   )
 
   task1
